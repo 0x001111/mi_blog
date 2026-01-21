@@ -23,5 +23,5 @@ La conexión se realizó añadiendo el remoto `origin` con la URL HTTPS del repo
 El sitio web se ha publicado utilizando **GitHub Pages**, configurando el despliegue desde la rama `main` y la carpeta raíz del repositorio.  
 Cada vez que se realiza un `git push`, GitHub Pages actualiza automáticamente la versión publicada del sitio.
 
-## Autor
+## Autora
 Andreea Neacsu
